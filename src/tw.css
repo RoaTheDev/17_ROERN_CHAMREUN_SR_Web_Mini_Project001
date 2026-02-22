@@ -1395,12 +1395,6 @@
   .text-\[10rem\] {
     font-size: 10rem;
   }
-  .text-\[15rem\] {
-    font-size: 15rem;
-  }
-  .text-\[20rem\] {
-    font-size: 20rem;
-  }
   .leading-6 {
     --tw-leading: calc(var(--spacing) * 6);
     line-height: calc(var(--spacing) * 6);
