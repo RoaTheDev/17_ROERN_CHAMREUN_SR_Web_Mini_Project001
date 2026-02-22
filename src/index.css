@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100..900&display=swap');
+
+@theme {
+    --font-epilogue: "Epilogue", sans-serif;
+    --background-image-hero-img: url('../assets/img/hero/heroBg.jpg');
+    --background-image-main-sec2-img: url("../assets/img/main-sec-2/sec2_bg.png");
+    --background-image-main-sec4-img: url("../assets/img/main-sec-4/bg-sec-4.png");
+    --background-image-main-sec5-img: url("../assets/img/main-sec-5/bg-sec-5.png") ;
+    --background-image-main-footer: url("../assets/img/footer/Background.png") ;
+    --background-image-main-sec-6-img: url("../assets/img/main-sec-6/main-6-card-shape.png");
+    --background-image-main-sec-7-img: url("../assets/img/main-sec-7/m-sec-7-bg.png");
+    --background-image-main-sec-9-img: url("../assets/img/main-sec-9/bg.png");
+    --background-image-other-page-img: url("../assets/img/other-page-bg.png");
+    --color-ui-coral: #FC6441;
+    --color-ui-red: #FE543D;
+    --color-ui-dark-blue: #17254E;
+    --color-ui-light-dark-blue: #0E2A46;
+    --color-ui-ligher-dark-blue: #1F3061;
+    --color-ui-darkest-jade: #2FC7A126;
+    --color-ui-light-jade: #35D7AE;
+    --color-ui-dark-jade: #2FC7A1;
+    --color-ui-dark-gray: #333931;
+    --color-ui-darkest-gray: #222222;
+    --color-ui-light-gray: #4D5756;
+    --color-ui-close-to-white:#F2F2F2;
+    --color-ui-orange: #F2A227;
+    --color-ui-yellow: #FFD25D;
+    --color-ui-light-purple: #704FE6;
+}
+/*@layer base {*/
+/*    meter {*/
+/*        -webkit-appearance: none;*/
+/*        appearance: none;*/
+/*    }*/
+
+/*    meter::-webkit-meter-optimum-value,*/
+/*    meter::-webkit-meter-suboptimum-value,*/
+/*    meter::-webkit-meter-even-less-good-value {*/
+/*        background: var(--color-ui-light-jade);*/
+/*        border-radius: 999px;*/
+/*    }*/
+/*    meter::-moz-meter-bar {*/
+/*        background: var(--color-ui-light-jade);*/
+/*        border-radius: 999px;*/
+/*    }*/
+/*}*/
+

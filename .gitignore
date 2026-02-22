@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+.vscode/
+*.iml
+.idea/
+
+/dist/
+/build/
+/tmp/
+
+node_modules
